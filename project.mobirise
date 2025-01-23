@@ -38,7 +38,7 @@
     "versionFirst": "5.9.24",
     "siteFonts": [],
     "publishChangesOnly": true,
-    "publishEditFolder": false,
+    "publishEditFolder": true,
     "uniqCompNum": 14,
     "versionPublish": "5.9.24"
   },
